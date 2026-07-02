@@ -1,2 +1,2 @@
 # Red-Heritage-Drama-Evaluation
-Deep Learning framework for drama instruction outcome evaluation using Self-Attention Refined GAN (SATT-GAN) and Scalable Golden Jackal Optimization (SGJO) on multimodal performance features.
+Deep Learning and Computer Vision based Red Literature Image Communication using Soccer Game Optimization tuned XGBoost (SGO-XGBT). Includes image preprocessing, CNN feature extraction, hyperparameter optimization, classification, evaluation, and visualization implemented in Python.
